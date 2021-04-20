@@ -1,0 +1,213 @@
+@font-face {
+	font-family: myFirstFont;
+	src: url(PlayfairDisplay-Regular.ttf);
+}
+
+#kotak{
+	width: 200px;
+	margin-left: 70px;
+	font-family: myFirstFont;
+	font-size: 15px;
+}
+
+.nav-link{
+	margin-right: 30px;
+}
+
+.jumbotron{
+	background-image: url(klinikPratama.jpg);
+	background-size: cover;
+}
+
+.container-fluid{
+	background-image:url(18.jpg);
+	background-size: cover;
+}
+
+#tabmenu{
+	text-align: right;
+	font-family: myFirstFont;
+	font-size: 20px;
+}
+
+
+
+.kotakbawah{
+	width: 200px;
+	margin-left: 350px;
+	font-family: myFirstFont;
+	font-size: 15px;
+}
+
+.wrapper {
+	margin: 24px;
+	padding: 24px;	
+	background-color: rgba(59,130,246,0.5);
+	width: 300px;
+	border-radius: 24px;
+}
+
+.jumbotron .display-4 span{
+    font-weight: 500;
+}
+
+/* info panel */
+.info-panel{
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+    border-radius: 12px;
+    margin-top: -100px;
+    background-color: white;
+    padding: 30px;
+}
+
+.info-panel img{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+	border-radius: 30px;
+}
+
+
+.info-panel h4{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+	text-transform: center;
+}
+
+.kotak{
+	border: 1px black solid;
+}
+
+/* workingspace */
+.workingspace{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.workingspace h3{
+    font-size: 52px;
+    font-weight: 200;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.workingspace h4{
+	margin-top: 30px;
+}
+
+.workingspace h3 span{
+    font-weight: 500;
+}
+
+.workingspace p{
+    font-size: 18px;
+    color: #acacac;
+    font-weight: 200;
+    margin: 30px 0;
+}
+
+.workingspace img{
+	border-radius: 100px;
+	width: 220px;
+	height: 300px;
+	margin-top: 100px;
+	border: 3px solid #acacac;
+}
+
+.testimonial h5{
+    text-align: center;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 24px;
+}
+
+
+.about{
+	width: 1100px;
+	margin: auto;
+	margin-top: 100px;
+	position: relative;
+}
+
+.konten{
+	width: 600px;
+}
+
+.foto{
+	width: 300px;
+}
+
+.foto img{
+	width: 300px;
+	height: 200px;
+	position: absolute;
+	right: 5px;
+	top: 18px;
+}
+
+.konten h1{
+	font-size: 24px;
+}
+
+.tujuan{
+	width: 1100px;
+	margin: auto;
+	margin-top: 100px;
+	border: 1px solid black;
+	padding: 30px;
+	position: relative;
+	height: 180px;
+}
+
+.visi{
+	width: 525px;
+	display: inline-block;
+	text-align: center;
+	position:absolute;
+	top: -10;
+}
+
+.misi{
+	width: 525px;
+	display: inline-block;
+	text-align: center;
+	position: absolute;
+	right: 0;
+}
+
+
+.sertif h2{
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.sertif{
+	margin: 100px auto;
+	position: relative;
+}
+
+.sertif img{
+	width: 600px;
+	margin: auto;
+	display: block;
+}
+
+.sertif p{
+	text-align: center;
+	font-size: 10px;
+	position: absolute;
+	left: 771px;
+	margin-top: 1px;
+}
+
+.footer{
+    margin-top: 100px;
+    height: 30px;
+   	line-height: 30px;
+}
+
+.footer p{
+    color: #acacac;
+    font-size: 12px;
+}
